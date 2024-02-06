@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74df6ffb-b6ee-47d1-8894-b09ae2fa6d10" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/component/PanelGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/component/GamePanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/main/GameMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/main/GameMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/main/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/main/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/obj/BossTank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/obj/Etank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/obj/Etank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/obj/HpRender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/obj/healthrender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/obj/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/obj/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/highscore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/highscore.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/java-tank-game/game/main/GameMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/out/production/java-tank-game/game/main/GameMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/java-tank-game/game/main/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/out/production/java-tank-game/game/main/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/java-tank-game/game/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/out/production/java-tank-game/game/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/java-tank-game/game/obj/BossTank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/java-tank-game/game/obj/Etank.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/out/production/java-tank-game/game/obj/Etank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/java-tank-game/game/obj/HpRender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/java-tank-game/game/obj/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/out/production/java-tank-game/game/obj/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/java-tank-game/highscore.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/out/production/java-tank-game/highscore.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PHvAJShVlOlnmBAoe6wAhUZA51" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/java-tank-game&quot;
+  }
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="git add ." />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74df6ffb-b6ee-47d1-8894-b09ae2fa6d10" name="Changes" comment="" />
+      <created>1683126677062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683126677062</updated>
+    </task>
+    <servers />
+  </component>
+</project>
